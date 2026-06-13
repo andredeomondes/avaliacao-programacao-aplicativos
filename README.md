@@ -1,5 +1,9 @@
 # Avaliação de Aprendizagem - Python (CustomTkinter)
 
+### Discentes:
+- Andre Junio Deomondes Carvalhal
+- Eduardo Cavalcante Andrade
+
 ![alt text](image.png)
 
 ### Código
